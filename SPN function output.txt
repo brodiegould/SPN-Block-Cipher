@@ -1,0 +1,176 @@
+%Output of SPN block cipher for 20 iterations with the following inputs%
+
+Plaintext = 15
+Key 1 = 11
+Key 2 = 10
+Key 3 = 7
+
+%% Output Below %%
+
+>> SPN(15,11,10,7)
+
+plainText =
+
+    15
+
+iteration
+     1
+
+
+cipherOutput =
+
+    14
+
+iteration
+     2
+
+
+cipherOutput =
+
+     9
+
+iteration
+     3
+
+
+cipherOutput =
+
+    13
+
+iteration
+     4
+
+
+cipherOutput =
+
+     1
+
+iteration
+     5
+
+
+cipherOutput =
+
+     3
+
+iteration
+     6
+
+
+cipherOutput =
+
+     8
+
+iteration
+     7
+
+
+cipherOutput =
+
+    14
+
+iteration
+     8
+
+
+cipherOutput =
+
+     9
+
+iteration
+     9
+
+
+cipherOutput =
+
+    13
+
+iteration
+    10
+
+
+cipherOutput =
+
+     1
+
+iteration
+    11
+
+
+cipherOutput =
+
+     3
+
+iteration
+    12
+
+
+cipherOutput =
+
+     8
+
+iteration
+    13
+
+
+cipherOutput =
+
+    14
+
+iteration
+    14
+
+
+cipherOutput =
+
+     9
+
+iteration
+    15
+
+
+cipherOutput =
+
+    13
+
+iteration
+    16
+
+
+cipherOutput =
+
+     1
+
+iteration
+    17
+
+
+cipherOutput =
+
+     3
+
+iteration
+    18
+
+
+cipherOutput =
+
+     8
+
+iteration
+    19
+
+
+cipherOutput =
+
+    14
+
+iteration
+    20
+
+
+cipherOutput =
+
+     9
+
+>> 
